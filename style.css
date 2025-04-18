@@ -1,0 +1,20 @@
+.flag {
+    width: 300px;
+    height:180px;
+    border: 2px solid black;
+}
+.white{
+    height:60px;
+    background-color: #FFFFFF;
+    width:300px;
+}
+.green{
+    height:60px;
+    background-color: #00966E;
+    width:300px;
+}
+.red{
+    height:60px;
+    background-color: #D62612;
+    width:300px;
+}
